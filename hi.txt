@@ -1,1 +1,3 @@
 kyaw zin tun developer
+frond-end
+back-end
